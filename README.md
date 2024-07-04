@@ -22,7 +22,7 @@ The data was sourced from [data.gov](https://www.data.gov.uk/dataset/cb7ae6f0-4b
 - **Tableau Visualizations:** Using queries in mySQL, tables with different features and comparisons were created and then exported as a CSV file to tableau for visualization.
 
 ## Expected Outcomes<br>
-This project aims to deliver actionable insights that can inform policy-makers, road safety authorities, and the general public. By identifying high-risk areas and understanding contributing factors, we hope to contribute to a significant reduction in car accidents and enhance overall road safety in the UK.
+This project aims to deliver actionable insights that can inform policy-makers, road safety authorities, and the general public. By identifying high-risk areas and understanding contributing factors, we hope to contribute to a significant reduction in car accidents and enhance overall road safety in the UK.<br>
 Ultimately, this data analytics project seeks to pave the way for a safer driving environment, where data-driven decisions lead to tangible improvements in road safety and the well-being of all road users.
 
 ## Libraries & Programs Used
