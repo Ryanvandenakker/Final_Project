@@ -1,0 +1,198 @@
+"region";"accident_year";"sex_of_casualty";"casualty_class";"count_of_fatalities"
+"East Midlands";2018;"Female";"Driver";19
+"East Midlands";2018;"Female";"Passenger";13
+"East Midlands";2018;"Female";"Pedestrian";8
+"East Midlands";2018;"Male";"Driver";52
+"East Midlands";2018;"Male";"Passenger";4
+"East Midlands";2018;"Male";"Pedestrian";11
+"East Midlands";2019;"Female";"Driver";5
+"East Midlands";2019;"Female";"Passenger";11
+"East Midlands";2019;"Female";"Pedestrian";7
+"East Midlands";2019;"Male";"Driver";48
+"East Midlands";2019;"Male";"Passenger";9
+"East Midlands";2019;"Male";"Pedestrian";14
+"East Midlands";2020;"Female";"Driver";18
+"East Midlands";2020;"Female";"Passenger";4
+"East Midlands";2020;"Female";"Pedestrian";2
+"East Midlands";2020;"Male";"Driver";35
+"East Midlands";2020;"Male";"Passenger";6
+"East Midlands";2020;"Male";"Pedestrian";4
+"East of England";2018;"Female";"Driver";10
+"East of England";2018;"Female";"Passenger";9
+"East of England";2018;"Female";"Pedestrian";3
+"East of England";2018;"Male";"Driver";53
+"East of England";2018;"Male";"Passenger";8
+"East of England";2018;"Male";"Pedestrian";11
+"East of England";2019;"Female";"Driver";10
+"East of England";2019;"Female";"Passenger";6
+"East of England";2019;"Female";"Pedestrian";8
+"East of England";2019;"Male";"Driver";60
+"East of England";2019;"Male";"Passenger";15
+"East of England";2019;"Male";"Pedestrian";16
+"East of England";2020;"Female";"Driver";16
+"East of England";2020;"Female";"Passenger";7
+"East of England";2020;"Female";"Pedestrian";4
+"East of England";2020;"Male";"Driver";58
+"East of England";2020;"Male";"Passenger";7
+"East of England";2020;"Male";"Pedestrian";6
+"Greater London";2018;"Female";"Driver";7
+"Greater London";2018;"Female";"Pedestrian";20
+"Greater London";2018;"Male";"Driver";44
+"Greater London";2018;"Male";"Passenger";3
+"Greater London";2018;"Male";"Pedestrian";37
+"Greater London";2019;"Female";"Driver";2
+"Greater London";2019;"Female";"Passenger";4
+"Greater London";2019;"Female";"Pedestrian";18
+"Greater London";2019;"Male";"Driver";47
+"Greater London";2019;"Male";"Passenger";4
+"Greater London";2019;"Male";"Pedestrian";49
+"Greater London";2020;"Female";"Driver";3
+"Greater London";2020;"Female";"Passenger";4
+"Greater London";2020;"Female";"Pedestrian";17
+"Greater London";2020;"Male";"Driver";40
+"Greater London";2020;"Male";"Passenger";4
+"Greater London";2020;"Male";"Pedestrian";28
+"North East";2018;"Female";"Driver";2
+"North East";2018;"Female";"Passenger";4
+"North East";2018;"Female";"Pedestrian";7
+"North East";2018;"Male";"Driver";17
+"North East";2018;"Male";"Passenger";1
+"North East";2018;"Male";"Pedestrian";11
+"North East";2019;"Female";"Driver";7
+"North East";2019;"Female";"Passenger";4
+"North East";2019;"Female";"Pedestrian";2
+"North East";2019;"Male";"Driver";30
+"North East";2019;"Male";"Passenger";5
+"North East";2019;"Male";"Pedestrian";12
+"North East";2020;"Female";"Passenger";6
+"North East";2020;"Female";"Pedestrian";4
+"North East";2020;"Male";"Driver";25
+"North East";2020;"Male";"Passenger";5
+"North East";2020;"Male";"Pedestrian";9
+"North West";2018;"Female";"Driver";7
+"North West";2018;"Female";"Passenger";10
+"North West";2018;"Female";"Pedestrian";12
+"North West";2018;"Male";"Driver";49
+"North West";2018;"Male";"Passenger";7
+"North West";2018;"Male";"Pedestrian";9
+"North West";2019;"Female";"Driver";14
+"North West";2019;"Female";"Passenger";13
+"North West";2019;"Female";"Pedestrian";14
+"North West";2019;"Male";"Driver";60
+"North West";2019;"Male";"Passenger";11
+"North West";2019;"Male";"Pedestrian";21
+"North West";2020;"Female";"Driver";10
+"North West";2020;"Female";"Passenger";7
+"North West";2020;"Female";"Pedestrian";8
+"North West";2020;"Male";"Driver";45
+"North West";2020;"Male";"Passenger";3
+"North West";2020;"Male";"Pedestrian";17
+"Scotland";2018;"Female";"Driver";7
+"Scotland";2018;"Female";"Passenger";13
+"Scotland";2018;"Female";"Pedestrian";5
+"Scotland";2018;"Male";"Driver";40
+"Scotland";2018;"Male";"Passenger";12
+"Scotland";2018;"Male";"Pedestrian";8
+"Scotland";2019;"Female";"Driver";21
+"Scotland";2019;"Female";"Passenger";10
+"Scotland";2019;"Female";"Pedestrian";14
+"Scotland";2019;"Male";"Driver";51
+"Scotland";2019;"Male";"Passenger";8
+"Scotland";2019;"Male";"Pedestrian";25
+"Scotland";2020;"Female";"Driver";13
+"Scotland";2020;"Female";"Passenger";10
+"Scotland";2020;"Female";"Pedestrian";8
+"Scotland";2020;"Male";"Driver";72
+"Scotland";2020;"Male";"Passenger";14
+"Scotland";2020;"Male";"Pedestrian";26
+"South East";2018;"Female";"Driver";32
+"South East";2018;"Female";"Passenger";29
+"South East";2018;"Female";"Pedestrian";19
+"South East";2018;"Male";"Driver";198
+"South East";2018;"Male";"Passenger";22
+"South East";2018;"Male";"Pedestrian";69
+"South East";2019;"Female";"Driver";35
+"South East";2019;"Female";"Passenger";27
+"South East";2019;"Female";"Pedestrian";20
+"South East";2019;"Male";"Driver";158
+"South East";2019;"Male";"Passenger";25
+"South East";2019;"Male";"Pedestrian";56
+"South East";2020;"Female";"Driver";30
+"South East";2020;"Female";"Passenger";24
+"South East";2020;"Female";"Pedestrian";18
+"South East";2020;"Male";"Driver";193
+"South East";2020;"Male";"Passenger";20
+"South East";2020;"Male";"Pedestrian";45
+"South East";2021;"Male";"Driver";1
+"South West";2018;"Female";"Driver";16
+"South West";2018;"Female";"Passenger";11
+"South West";2018;"Female";"Pedestrian";9
+"South West";2018;"Male";"Driver";97
+"South West";2018;"Male";"Passenger";13
+"South West";2018;"Male";"Pedestrian";26
+"South West";2019;"Female";"Driver";24
+"South West";2019;"Female";"Passenger";11
+"South West";2019;"Female";"Pedestrian";15
+"South West";2019;"Male";"Driver";88
+"South West";2019;"Male";"Passenger";5
+"South West";2019;"Male";"Pedestrian";13
+"South West";2020;"Female";"Driver";12
+"South West";2020;"Female";"Passenger";8
+"South West";2020;"Female";"Pedestrian";5
+"South West";2020;"Male";"Driver";71
+"South West";2020;"Male";"Passenger";13
+"South West";2020;"Male";"Pedestrian";17
+"Wales";2018;"Female";"Driver";5
+"Wales";2018;"Female";"Passenger";2
+"Wales";2018;"Female";"Pedestrian";5
+"Wales";2018;"Male";"Driver";17
+"Wales";2018;"Male";"Passenger";5
+"Wales";2018;"Male";"Pedestrian";9
+"Wales";2019;"Female";"Driver";6
+"Wales";2019;"Female";"Passenger";4
+"Wales";2019;"Female";"Pedestrian";4
+"Wales";2019;"Male";"Driver";20
+"Wales";2019;"Male";"Passenger";3
+"Wales";2019;"Male";"Pedestrian";10
+"Wales";2020;"Female";"Driver";2
+"Wales";2020;"Female";"Passenger";1
+"Wales";2020;"Female";"Pedestrian";2
+"Wales";2020;"Male";"Driver";18
+"Wales";2020;"Male";"Passenger";2
+"Wales";2020;"Male";"Pedestrian";9
+"West Midlands";2018;"Female";"Driver";19
+"West Midlands";2018;"Female";"Passenger";10
+"West Midlands";2018;"Female";"Pedestrian";12
+"West Midlands";2018;"Male";"Driver";89
+"West Midlands";2018;"Male";"Passenger";9
+"West Midlands";2018;"Male";"Pedestrian";34
+"West Midlands";2019;"Female";"Driver";10
+"West Midlands";2019;"Female";"Passenger";11
+"West Midlands";2019;"Female";"Pedestrian";14
+"West Midlands";2019;"Male";"Driver";78
+"West Midlands";2019;"Male";"Passenger";10
+"West Midlands";2019;"Male";"Pedestrian";27
+"West Midlands";2020;"Female";"Driver";7
+"West Midlands";2020;"Female";"Passenger";7
+"West Midlands";2020;"Female";"Pedestrian";6
+"West Midlands";2020;"Male";"Driver";54
+"West Midlands";2020;"Male";"Passenger";8
+"West Midlands";2020;"Male";"Pedestrian";26
+"Yorkshire and the Humber";2018;"Female";"Driver";11
+"Yorkshire and the Humber";2018;"Female";"Passenger";10
+"Yorkshire and the Humber";2018;"Female";"Pedestrian";16
+"Yorkshire and the Humber";2018;"Male";"Driver";61
+"Yorkshire and the Humber";2018;"Male";"Passenger";17
+"Yorkshire and the Humber";2018;"Male";"Pedestrian";14
+"Yorkshire and the Humber";2019;"Female";"Driver";10
+"Yorkshire and the Humber";2019;"Female";"Passenger";19
+"Yorkshire and the Humber";2019;"Female";"Pedestrian";5
+"Yorkshire and the Humber";2019;"Male";"Driver";77
+"Yorkshire and the Humber";2019;"Male";"Passenger";17
+"Yorkshire and the Humber";2019;"Male";"Pedestrian";26
+"Yorkshire and the Humber";2020;"Female";"Driver";7
+"Yorkshire and the Humber";2020;"Female";"Passenger";6
+"Yorkshire and the Humber";2020;"Female";"Pedestrian";5
+"Yorkshire and the Humber";2020;"Male";"Driver";66
+"Yorkshire and the Humber";2020;"Male";"Passenger";7
+"Yorkshire and the Humber";2020;"Male";"Pedestrian";18
