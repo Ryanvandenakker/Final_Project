@@ -2,3 +2,4 @@
 .DS_Store
 *.in
 p3_venv/
+data/modified_with_sql/*TableauTemp*
