@@ -5,6 +5,8 @@ In recent years, the analysis of car accidents has gained significant attention 
 
 The data was sourced from [data.gov](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data) and consists of road accident data from 2018 to 2022 in the UK.
 
+For my interactive dashboard of UK Road Safety, please follow this [link](https://public.tableau.com/app/profile/ryan.van.den.akker2210/viz/finalproject_17200625668910/UKRoadSafety?publish=yes). 
+
 ## Datasets<br>
 - **Collision:** Provides general information regarding each accident. Includes the column ‘accident_index’ which contains unique values for each accident.
 - **Vehicle:** Provides information about the profile of individuals involved in the accident and vehicle details.
